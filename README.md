@@ -6,4 +6,5 @@ Just select one of the values avaiable and play your audios.
 
 Values can be located in the header of whatsapp web app, next to your account options.
 
+![where](https://github.com/felipecaon/tfuf/blob/main/where.png)
 

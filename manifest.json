@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Talk Faster U Fool",
+    "version": "2.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://web.whatsapp.com/"
+            ],
+            "css": [
+                "style.css"
+            ],
+            "js": [
+                "tfuf.js"
+            ]
+        }
+    ]
+}

@@ -9,7 +9,7 @@ Values can be located in the header of whatsapp web app, next to your account op
 ![where](https://github.com/felipecaon/tfuf/blob/main/images/where.png)
 
 
-Compatible Browsers:
+Browser compatibility:
 - Chrome
 - Firefox
 - Edge

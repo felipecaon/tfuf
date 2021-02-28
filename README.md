@@ -1,6 +1,6 @@
 # Talk Faster U Fool (tfuf)
 
-tfuf is a Browser extension that allows to speed up whatsapp audios.
+tfuf is a cross-browser extension that allows to speed up whatsapp audios.
 
 Just select one of the values avaiable and play your audios.
 

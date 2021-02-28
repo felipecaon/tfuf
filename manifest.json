@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "Talk Faster U Fool",
-    "version": "2.0",
+    "version": "1.0",
     "content_scripts": [
         {
             "matches": [
@@ -14,5 +14,13 @@
                 "tfuf.js"
             ]
         }
-    ]
+    ],
+    "browser_action": {
+        "default_icon": "128.png"
+    },
+    "icons": {
+        "16": "16.png",
+        "48": "48.png",
+        "128": "128.png"
+    }
 }
